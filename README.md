@@ -1,5 +1,6 @@
+<!--
 ### Hi there 👋
-
+-->
 <!--
 **shivam19joshi/shivam19joshi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +15,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<h3 id="Hi" align="center">Hi there👋</h3>
+
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3N2OG9mNml0Y3VoeHhjY2d6dTFyeGsxc2Vqd2ZzeXdxeDJ4NzM0eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ZXkraFrlIW1D25M6ZJ/giphy.gif" width="150"/>
+</div>
+
+<div id="Intro" align="center">
+  I am Shivam Joshi, Founder and CEO of Codon's Technologies. With a passion for leveraging cutting-edge technologies, I embarked on my entreprenurial journey at the age of 18. Since then, I've dedicated myself to exploring the realms of Artificical Intelligence (AI), Data Science, Machine Learning, and Data Analysis. Over the years, I've had the privilage of honing my expertise in various domains within the tech industry. As India's youngest corporate trainer for AI, I've had the oppotunity to impart knowledge and skills to professionals across renowned organizations such as Infosys, TCS, HCL, Wipro, and more.
+</div>
