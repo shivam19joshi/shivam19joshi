@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 <div id="Intro" align="center">
   <p>I am Shivam Joshi, Founder and Executive Director at Codon's. With a passion for leveraging cutting-edge technologies, I embarked on my entreprenurial journey at the age of 18. Since then, I've dedicated myself to exploring the realms of Artificical Intelligence (AI), Data Science, Machine Learning, and Data Analysis. Over the years, I've had the privilage of honing my expertise in various domains within the tech industry. As India's youngest corporate trainer for AI, I've had the oppotunity to impart knowledge and skills to professionals across renowned organizations such as LTI, Infosys, TCS, HCL, CITI, and more.</p>
   
-  <p>As an active speaker, I've had the pleasure of sharing insights and experiences at numerous prestigious events. I've been honored to serve as a speaker at events like the Google Developers Students Club's (GDSC) WOW 2023 and DEVFEST Ahmedabad, Delhi, Luckhnow, Pune, where I discussed startup dynamics and emerging technologies. I've had the privilege of representing India on the global stage, serving as an Indian delegation memeber at the ESA Dubai Expo 2020 and the IYSA AISEEF Indonesia 2023.</p>
+  <p>As an active speaker, I've had the pleasure of sharing insights and experiences at numerous prestigious events. I've been honored to serve as a speaker at events like the Google WOW and DEVFEST Pan India. Where I discussed startup dynamics and emerging technologies. I've had the privilege of representing India on the global stage, serving as an Indian delegation memeber at the ESA Dubai Expo 2020 and the IYSA Indonesia 2023.</p>
 </div>
 
 <h3>
