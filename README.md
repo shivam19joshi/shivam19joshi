@@ -43,7 +43,7 @@ Here are some ideas to get you started:
       <img alt="Instagram Badge" src="https://img.shields.io/badge/Instagram-yellow?logo=Instagram&link=https%3A%2F%2Fwww.instagram.com%2Fthe_shivamjoshi" hspace="0.5%">
     </a>
   </div>
-</h3>
+</h3> 
 
 <h1>
   As Featured On
